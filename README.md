@@ -31,8 +31,8 @@
 <br/>
 
 <a href="https://github.com/liubingdong">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liubingdong&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liubingdong&theme=buefy&layout=compact" />
+  <img height="400em" width="400em" src="https://github-readme-stats.vercel.app/api?username=liubingdong&theme=buefy&show_icons=true" />
+  <img height="400em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liubingdong&theme=buefy&layout=compact" />
 </a>
 
 <br/>
