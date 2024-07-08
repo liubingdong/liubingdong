@@ -28,16 +28,26 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<br/>
-<a href="https://github.com/liubingdong">
-  <img height="400em" width="400em" src="https://github-readme-stats.vercel.app/api?username=liubingdong&theme=buefy&show_icons=true" />
-  <img height="400em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liubingdong&theme=buefy&layout=compact" />
-</a>
-<br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=liubingdong&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
 
 <p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="left">
 <a href="mailto:liubingdong@i.smu.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-liubingdong@i.smu.edu.cn-blue?style=flat-square&logo=gmail"></a>
 </p>
 
