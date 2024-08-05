@@ -7,7 +7,7 @@
 - 💼 &nbsp; Working as a Post-doc at Southern Medical University.
 - 🌱 &nbsp; Learning more about R packasge and bioinformatics on clinic research.
 - ✍️ &nbsp; Pursuing more about  gut-brain axis and orther biology science .
-
+- 🔖 &nbsp; Publication list: [**Click this**](https://scholar.google.com/citations?user=ai5AvYwAAAAJ&hl)
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -40,11 +40,6 @@
 ---
 
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=liubingdong&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liubingdong&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
- 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
