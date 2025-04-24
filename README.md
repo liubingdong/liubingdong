@@ -33,7 +33,7 @@
 
 <p align="left">
 <a href="mailto:liubingdong@i.smu.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-liubingdong@i.smu.edu.cn-blue?style=flat-square&logo=gmail"></a>
-<a href="mailto:liubingdong@i.smu.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-dr_liubingdong@qq.com-green?style=flat-square&logo=gmail"></a>
+<a href="mailto:dr_liubingdong@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-dr_liubingdong@qq.com-green?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [liubingdong](https://github.com/liubingdong)
